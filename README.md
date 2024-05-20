@@ -6,4 +6,4 @@ Fix my code is a new type of project, where I’ll jump into an existing code ba
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author
-* __Ademola Ademeso__ <[](https://github.com/KingDez04)>
+* __Ademola Ademeso__ <[KingDez04](https://github.com/KingDez04)>
